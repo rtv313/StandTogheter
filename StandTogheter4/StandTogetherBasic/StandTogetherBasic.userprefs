@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\rotacion_corregida.cs">
+    <Files>
+      <File FileName="Assets\Scripts\pauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\player_movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\AI\Actions\DestruirPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\winw.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\animation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ControladorEventos.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\rotacion_corregida.cs" Line="22" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
